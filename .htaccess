@@ -1,0 +1,7 @@
+Options -Indexes
+#RewriteEngine On
+#RewriteCond %{HTTPS} off
+#RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+ErrorDocument 403 "<meta http-equiv='refresh' content='0; url=https://www.ec2pass.com.hk/'/>"
+ErrorDocument 404 "<meta http-equiv='refresh' content='0; url=https://www.ec2pass.com.hk'/>"

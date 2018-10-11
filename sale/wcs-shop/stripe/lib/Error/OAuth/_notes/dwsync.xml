@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="InvalidClient.php" server="58.64.191.178/web/" local="131679537540000000" remote="131813718000000000" Dst="0" />
+<file name="InvalidGrant.php" server="58.64.191.178/web/" local="131679537540000000" remote="131813718000000000" Dst="0" />
+<file name="InvalidRequest.php" server="58.64.191.178/web/" local="131679537540000000" remote="131813718000000000" Dst="0" />
+<file name="InvalidScope.php" server="58.64.191.178/web/" local="131679537540000000" remote="131813718000000000" Dst="0" />
+<file name="OAuthBase.php" server="58.64.191.178/web/" local="131679537540000000" remote="131813718600000000" Dst="0" />
+<file name="UnsupportedGrantType.php" server="58.64.191.178/web/" local="131679537540000000" remote="131813718600000000" Dst="0" />
+<file name="UnsupportedResponseType.php" server="58.64.191.178/web/" local="131679537540000000" remote="131813718600000000" Dst="0" />
+</dwsync>
